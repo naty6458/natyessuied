@@ -27,5 +27,6 @@ then
        . bin/activate
     fi
     pip install -U ${requirements}
+    /PIGPIO/pigpiod
 fi
 python ${code} 
