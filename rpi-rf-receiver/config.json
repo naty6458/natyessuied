@@ -10,7 +10,7 @@
     "gpio": "true",
     "ports": {"5055/tcp": null},
     "options": {
-  "code": "/share/rpi-rf_receive.py",
+  "code": "/share/vw.py",
   "requirements": [
     "rpi-rf",
 	  "pigpio"
