@@ -12,7 +12,8 @@
     "options": {
   "code": "/share/rpi-rf_receive.py",
   "requirements": [
-    "rpi-rf"
+    "rpi-rf",
+	  "pigpio"
   ],
   "clean": true
 },
